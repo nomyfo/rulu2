@@ -1,0 +1,5 @@
+Rulu V7 GGUF SHA-256
+
+bfe8e0ec07179b1c57d648545fb3396f088c3e829486a76a2632247dfbf92d47  rulu-v7-1b-f16.gguf
+
+The GGUF is ~2.0 GB. GitHub's regular repository file API cannot store this artifact; use Git LFS or a release/object-storage workflow for the binary.
