@@ -1,0 +1,14 @@
+{
+  "architecture": "llama",
+  "params": 1028214784,
+  "layers": 20,
+  "hidden": 2048,
+  "ffn": 5632,
+  "heads": 8,
+  "context": 512,
+  "vocab": 257,
+  "dtype": "F16",
+  "training_examples": 3123,
+  "pretrained_external": false,
+  "expanded_from": "rulu_v6"
+}
